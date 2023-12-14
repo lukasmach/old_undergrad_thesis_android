@@ -1,4 +1,1 @@
-viktorka
-========
 
-Bachelor Thesis
